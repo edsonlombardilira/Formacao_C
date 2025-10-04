@@ -1,4 +1,3 @@
-Isso é apenas um teste.
 
 O objetivo do codigo e impedir que o usuário digite um comando invalido se caso acontecer será solicitado uma nova entrada valida.
 
